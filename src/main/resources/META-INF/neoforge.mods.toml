@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="GPL-3.0"
+
+[[mods]]
+modId="female_size_500"
+version="1.0.0"
+displayName="Female Size 500"
+authors="egg-devlop"
+description="Raises Female Gender Mod bust size max to 500%."
+
+[[mixins]]
+config="female_size_500.mixins.json"
