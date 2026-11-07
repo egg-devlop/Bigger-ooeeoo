@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.eggdevlop.femalesize500.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BreastsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
